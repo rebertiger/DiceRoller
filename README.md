@@ -1,6 +1,8 @@
 # udemy_first_project
 
-A new Flutter project.
+Dice Roller. My first ever project on Flutter Framework.
+
+
 
 ## Getting Started
 
